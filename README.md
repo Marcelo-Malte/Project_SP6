@@ -14,4 +14,7 @@ El objetivo de este proyecto es proporcionar una interfaz web donde los usuarios
 - **Histograma**: Al hacer clic en el botón "Generar Histograma", se construirá un histograma interactivo utilizando Plotly Express.
 - **Gráfico de Dispersión**: Al hacer clic en el botón "Generar Gráfico de Dispersión", se generará un gráfico de dispersión interactivo utilizando Plotly Express.
 
+## Enlace a la aplicación
+- https://project-sp6.onrender.com
+
 
