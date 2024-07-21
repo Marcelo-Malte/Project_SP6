@@ -15,6 +15,7 @@ El objetivo de este proyecto es proporcionar una interfaz web donde los usuarios
 - **Gráfico de Dispersión**: Al hacer clic en el botón "Generar Gráfico de Dispersión", se generará un gráfico de dispersión interactivo utilizando Plotly Express.
 
 ## Enlace a la aplicación
+Si no carga la web correctamente, recargar la página.
 - https://project-sp6.onrender.com
 
 
